@@ -1,4 +1,0 @@
-test git new file
-update1
-update2
-
